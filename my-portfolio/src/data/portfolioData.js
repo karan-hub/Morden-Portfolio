@@ -8,6 +8,7 @@ export const sections = [
   { id: "projects", label: "Projects" },
   { id: "achievements", label: "Achievements" },
   { id: "certifications", label: "Certifications" },
+    { id: "resume", label: "Resume", isResume: true },
 ];
 
 export const information = {
